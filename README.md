@@ -1,1 +1,1 @@
-# Pig-Game
+This is a browser game made using Javascript, HTML, and CSS. The object of the game is to reach a threshold score by rolling a virtual die. The number on the die is added to the current score. However, if the player rolls a 1, their current score is reset to 0 and control passes to the opponent. Players have the option of holding their current score and passing to an opponent, thus adding their current score to their total.
